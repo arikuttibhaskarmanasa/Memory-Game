@@ -4,10 +4,10 @@ const timerDisplay = document.querySelector(".timer span");
 const startButton = document.querySelector(".start button");
 
 const faces = [
-    "image/cat.jpg", "image/cow.jpg", "image/dog.jpg",
-    "image/fox.jpg", "image/pig.jpg", "image/rabbit.jpg",
-    "image/cat.jpg", "image/cow.jpg", "image/dog.jpg",
-    "image/fox.jpg", "image/pig.jpg", "image/rabbit.jpg"
+    "images/cat.jpg", "images/cow.jpg", "image/dog.jpg",
+    "images/fox.jpg", "images/pig.jpg", "images/rabbit.jpg",
+    "images/cat.jpg", "images/cow.jpg", "images/dog.jpg",
+    "images/fox.jpg", "imagse/pig.jpg", "images/rabbit.jpg"
 ];
 
 let cards = [];
